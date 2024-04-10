@@ -1,6 +1,6 @@
 [submodule "cyberlink-src"]
 	path = cyberlink-src
-	url = git://github.com/cybergarage/CyberLink4C.git
+	url = https://github.com/cybergarage/mupnp.git
 [submodule "taglib-src"]
 	path = taglib-src
-	url = git://github.com/taglib/taglib.git
+	url = https://github.com/taglib/taglib.git
